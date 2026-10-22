@@ -1,0 +1,13 @@
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+terraform/lambda_function.zip
+terraform/crash.log
+*.pem
+.idea/
+.vscode/
+__pycache__/
+.curl_body_tmp
+terraform/payload.json
+terraform/response.json
