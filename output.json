@@ -1,0 +1,37 @@
+{
+  "bucket_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "cv-23l-3059"
+  },
+  "ec2_instance_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-068c8da5393ea6efc"
+  },
+  "ec2_public_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "13.233.173.222"
+  },
+  "ec2_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "http://13.233.173.222/"
+  },
+  "lambda_function_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "cv-func-23l-3059"
+  },
+  "lambda_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://fs3jr7wllc5qz7udaozxm34twe0kocnh.lambda-url.ap-south-1.on.aws/"
+  },
+  "security_group_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "sg-02eac130d90192709"
+  }
+}
